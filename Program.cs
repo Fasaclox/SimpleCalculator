@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Helloworld_c_sharp
+namespace fasacalculator
 {
     internal class Program
     {
